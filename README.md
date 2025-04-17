@@ -34,8 +34,7 @@ This is a continuation of the previous lab and requires the virtual machines set
 - Remove **Domain Users**
 - Add **Domain Admins**
 - Set permission level to **Read/Write**
-
-> ⚠️ Skip configuring the `accounting` folder for now.
+- Skip configuring the `accounting` folder for now.
 
 ---
 
